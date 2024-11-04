@@ -1,25 +1,27 @@
 ---
 layout: about
-title: about
+title: Sobre
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Afiliación:</a> Estudiante de Ingeniería en Ciencias de la Computación.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: foto pw.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Estudiante Ing. Computación</p>
+    <p> Campus Politécnico </p>
+    <p> "José Rubén Orellana" </p>
+    <p>Quito - Ecuador</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Escuela Politécnica Nacional
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Soy estudiante de la carrera de Ingeniería en Ciencias de la Computación en la Escuela Politécnica Nacional. En un futuro me encantaría trabajar en Ciberseguridad o en algún campo que vaya descubriendo en el transcurso de mi pregrado.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+En mi tiempo libre, me gusta salir con mi enamorada, escuchar música, ver series o videos, tomar fotografias a diversos paisajes. De vez en cuando, juego video juegos en especial League of Legends.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Mis habilidades incluyen una gran capacidad de interacción con otras personas, comunicación asertiva y efectiva, estoy presto a aprender de los mejores y siempre destacar en todo ámbito. Mi ambición es postular a diversos proyectos para ganar experiencia y conocimiento. En un futuro trabajar en mi propia empresa. Además, tengo la capacidad de escuchar las peticiones de las personas e implementarlos de mejor manera. También, ponerme al día con los avances del tecnología para no perder el hilo del aprendizaje.
