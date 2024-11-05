@@ -173,7 +173,7 @@ external_sources:
     rss_url: https://medium.com/@al-folio/feed
   - name: Google Blog
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+      - url: https://www.youtube.com/watch?v=Tn5XXIe0nv8&t=2017s
         published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
@@ -229,6 +229,7 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  - assets/jupyter
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
@@ -254,6 +255,7 @@ keep_files:
 
 # Plug-ins
 plugins:
+  - jekyll-toc
   - jekyll-archives
   - jekyll-email-protect
   - jekyll-feed
@@ -264,12 +266,11 @@ plugins:
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-regex-replace
-  - jekyll/scholar
+  - jekyll-scholar
   - jekyll-sitemap
   - jekyll-tabs
-  - jekyll-toc
   - jekyll-twitter-plugin
-  - jemoji
+  - jemoji
 
 # Sitemap settings
 defaults:
